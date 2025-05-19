@@ -1,0 +1,23 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;  
+    
+}
+
+body{
+    background-color: #fcfbfb;
+}
+
+nav a{
+    /* text-align: center; */
+    /* To make a comment shortcut ctrl +/ */
+}
+#hero-msg h1, #hero-msg h4{
+    text-align: center;
+}
+.button-box{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
